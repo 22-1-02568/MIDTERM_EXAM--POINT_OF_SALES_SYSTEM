@@ -1,0 +1,38 @@
+/* BACKGROUND COLORS */
+
+.bg-main {
+    background-color: #f1e0c5;
+}
+
+.bg-choco {
+    background-color: #342a21;
+}
+
+.bg-highlight {
+    background-color: #b25538;
+}
+
+
+
+/* TEXT COLORS */
+
+.text-main {
+    color: #f1e0c5;
+}
+
+.text-choco {
+    color: #342a21;
+}
+
+.text-highlight {
+    color: #b25538;
+}
+
+
+
+/* BUTTON COLORS */
+
+.btn-highlight {
+    background-color: #b25538;
+    padding: 1em 3em 1em 3em;
+}
