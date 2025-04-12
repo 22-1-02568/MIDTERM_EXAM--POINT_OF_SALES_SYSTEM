@@ -1,15 +1,15 @@
-/* BACKGROUND COLORS */
+/* BACKGROUND COLORS - Blend S Theme */
 
 .bg-main {
-    background-color: #f1e0c5;
+    background-color: #ffb6c1; /* Maika's pink */
 }
 
 .bg-choco {
-    background-color: #342a21;
+    background-color: #87cefa; /* Kaho's blue */
 }
 
 .bg-highlight {
-    background-color: #b25538;
+    background-color: #98fb98; /* Miu's green */
 }
 
 
@@ -17,15 +17,15 @@
 /* TEXT COLORS */
 
 .text-main {
-    color: #f1e0c5;
+    color: #333333; /* Dark gray for contrast */
 }
 
 .text-choco {
-    color: #342a21;
+    color: #000000; /* White for blue background */
 }
 
 .text-highlight {
-    color: #b25538;
+    color: #333333; /* Dark gray for green background */
 }
 
 
@@ -33,6 +33,6 @@
 /* BUTTON COLORS */
 
 .btn-highlight {
-    background-color: #b25538;
+    background-color: #ff69b4; /* Brighter pink for visibility */
     padding: 1em 3em 1em 3em;
 }
